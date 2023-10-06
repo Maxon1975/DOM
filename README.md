@@ -1,3 +1,6 @@
+![CI](https://github.com/Maxon1975/DOM/actions/workflows/web.yml/badge.svg)
+
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
